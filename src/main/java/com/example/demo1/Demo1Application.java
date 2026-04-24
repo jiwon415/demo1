@@ -26,8 +26,8 @@ public class Demo1Application {
         return "Application is running1";
     }
 
-    public String getA() {
-        return "A";
+    public String getF() {
+        return "F";
     }
 
     public String getB() {
